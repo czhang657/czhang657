@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Chengqian Zhang 👋</h1>
+<h1 align="center">Hi there, I'm Chengqian Zhang</h1>
 
 ## Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
