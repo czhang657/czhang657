@@ -26,13 +26,7 @@
 - **EvaDB Project**: Implemented an application for summarizing academic papers using EvaDB, OpenAI's API, and LangChain.
 - **IM4WAV: I Hear Your True Colors in Stereo**: Developed an image-to-audio deep learning stereo-audio generation model based on IM2WAV, DinoV2, Clip, VQ-VAE, and sound localization techniques. Achieved a slight improvement over the current state-of-the-art IM2WAV model.
 
-## Cybersecurity Projects
-- ![Heartbleed](https://img.shields.io/badge/-Heartbleed-000?&logo=Security)
-- ![SYN Flood](https://img.shields.io/badge/-SYN%20Flood-000?&logo=Attack)
-- ![Packet Sniffing & Spoofing](https://img.shields.io/badge/-Packet%20Sniffing%20%26%20Spoofing-000?&logo=Packet)
-- ![SQL Injection](https://img.shields.io/badge/-SQL%20Injection-000?&logo=Database)
-- ![Spectre & Meltdown](https://img.shields.io/badge/-Spectre%20%26%20Meltdown-000?&logo=Bug)
-- ![Network Tools](https://img.shields.io/badge/-Network%20Tools-000?&logo=Tools)
+
 
 ## Skills
 **Technical**: Docker, PyTorch, Linux  
