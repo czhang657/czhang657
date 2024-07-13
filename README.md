@@ -18,7 +18,7 @@
 
 ## Full Stack Projects
 - ![My Website](https://img.shields.io/badge/-My%20Website-000?&logo=HTML5): Designed and developed the Yale International Alliance Summit website featuring event information and donation functionality using HTML, CSS, and JavaScript.
-- ![Summarizer]([https://img.shields.io/badge/-Summarizer-000?&logo=Markdown](https://github.com/czhang657/evaDB1)): Implemented an application for summarizing academic papers by integrating a PDF loader and utilizing OpenAI's API and LangChain.
+- ![Summarizer]([https://img.shields.io/badge/-Summarizer-000?&logo=Markdown]): Implemented an application for summarizing academic papers by integrating a PDF loader and utilizing OpenAI's API and LangChain.
 
 ## Machine Learning Projects
 - **Research on Transferability of Data Cleaning Pipelines**: As a Research Assistant at the D2I Lab, Georgia Institute of Technology, I led comprehensive experiments on the transferability of data cleaning pipelines, including standardization, handling missing values, and outlier detection across diverse categorical and time-series datasets. Leveraged dataset embeddings and the TaBERT model to analyze latent space representations, and evaluated the efficacy of data cleaning techniques for cross-domain transferability. Demonstrated that the MICE algorithm is particularly effective for time-series datasets with 0.15 and 0.10 drop probabilities. Established benchmarks for measuring transferability and clustering datasets, providing insights into the robustness of data cleaning techniques across different data scenarios.
