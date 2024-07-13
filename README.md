@@ -42,6 +42,11 @@ Master of Science in Computer Science (Expected May 2025)
 Bachelor of Science in Computer Science (December 2023)  
 - Concentration: Info/Artificial-Intelligence  
 
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+
+
 ## Contact
 - **Email**: [czhang657@gatech.edu](mailto:czhang657@gatech.edu)
 - **LinkedIn**: [linkedin.com/in/chengqian-zhang](https://www.linkedin.com/in/chengqian-zhang)
