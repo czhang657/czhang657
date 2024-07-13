@@ -17,17 +17,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 ## Full Stack Projects
-- ![My Website](https://img.shields.io/badge/-My%20Website-000?&logo=HTML5): Designed and developed the YIA Summit website featuring event information and donation functionality using HTML, CSS, and JavaScript.
-- ![COVID-19 Dashboard](https://img.shields.io/badge/-COVID--19%20Dashboard-000?&logo=Dash)
+- ![My Website](https://img.shields.io/badge/-My%20Website-000?&logo=HTML5): Designed and developed the Yale International Alliance Summit website featuring event information and donation functionality using HTML, CSS, and JavaScript.
 - ![Summarizer](https://img.shields.io/badge/-Summarizer-000?&logo=Markdown): Implemented an application for summarizing academic papers by integrating a PDF loader and utilizing OpenAI's API and LangChain.
-- ![Overwatch](https://img.shields.io/badge/-Overwatch-000?&logo=Game-Controller)
-- ![KubeSat](https://img.shields.io/badge/-KubeSat-000?&logo=Satellite)
-- ![Voice Poker](https://img.shields.io/badge/-Voice%20Poker-000?&logo=Poker)
-- ![PokémonGo Map](https://img.shields.io/badge/-Pok%C3%A9monGo%20Map-000?&logo=Map)
 
 ## Machine Learning Projects
-- **IM4WAV: I Hear Your True Colors in Stereo**: Developed an image-to-audio deep learning stereo-audio generation model based on IM2WAV, DinoV2, Clip, VQ-VAE, and sound localization techniques. Achieved a slight improvement over the current state-of-the-art IM2WAV model.
 - **Academic Name Disambiguation Pipeline**: Developed an advanced academic name disambiguation pipeline using a pre-trained sentence transformer model and the WhoIsWho Toolkit. Addressed homonym and synonym issues in author attribution.
+- **IM4WAV: I Hear Your True Colors in Stereo**: Developed an image-to-audio deep learning stereo-audio generation model based on IM2WAV, DinoV2, Clip, VQ-VAE, and sound localization techniques. Achieved a slight improvement over the current state-of-the-art IM2WAV model.
 - **EvaDB Project**: Implemented an application for summarizing academic papers using EvaDB, OpenAI's API, and LangChain.
 
 ## Cybersecurity Projects
