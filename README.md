@@ -21,9 +21,10 @@
 - ![Summarizer](https://img.shields.io/badge/-Summarizer-000?&logo=Markdown): Implemented an application for summarizing academic papers by integrating a PDF loader and utilizing OpenAI's API and LangChain.
 
 ## Machine Learning Projects
+- **Research on Transferability of Data Cleaning Pipelines**: As a Research Assistant at the D2I Lab, Georgia Institute of Technology, I led comprehensive experiments on the transferability of data cleaning pipelines, including standardization, handling missing values, and outlier detection across diverse categorical and time-series datasets. Leveraged dataset embeddings and the TaBERT model to analyze latent space representations, and evaluated the efficacy of data cleaning techniques for cross-domain transferability. Demonstrated that the MICE algorithm is particularly effective for time-series datasets with 0.15 and 0.10 drop probabilities. Established benchmarks for measuring transferability and clustering datasets, providing insights into the robustness of data cleaning techniques across different data scenarios.
 - **Academic Name Disambiguation Pipeline**: Developed an advanced academic name disambiguation pipeline using a pre-trained sentence transformer model and the WhoIsWho Toolkit. Addressed homonym and synonym issues in author attribution.
-- **IM4WAV: I Hear Your True Colors in Stereo**: Developed an image-to-audio deep learning stereo-audio generation model based on IM2WAV, DinoV2, Clip, VQ-VAE, and sound localization techniques. Achieved a slight improvement over the current state-of-the-art IM2WAV model.
 - **EvaDB Project**: Implemented an application for summarizing academic papers using EvaDB, OpenAI's API, and LangChain.
+- **IM4WAV: I Hear Your True Colors in Stereo**: Developed an image-to-audio deep learning stereo-audio generation model based on IM2WAV, DinoV2, Clip, VQ-VAE, and sound localization techniques. Achieved a slight improvement over the current state-of-the-art IM2WAV model.
 
 ## Cybersecurity Projects
 - ![Heartbleed](https://img.shields.io/badge/-Heartbleed-000?&logo=Security)
