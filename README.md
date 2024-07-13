@@ -43,7 +43,7 @@ Bachelor of Science in Computer Science (December 2023)
 - Concentration: Info/Artificial-Intelligence  
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czhang657&layout=compact&theme=radical)
 
 
 
